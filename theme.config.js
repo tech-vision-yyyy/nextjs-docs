@@ -1,5 +1,5 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
+  repository: 'https://github.com/allen-a-bettisworth/nextjs-docs',
   titleSuffix: ' – Nextra',
   logo: (
     <>
